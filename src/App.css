@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.custom-font{
+  font-family: 'Inter', sans-serif;
+}
+
+.nav-active{
+  color: #FF444A;
+  font-weight: 700;
+  border-bottom: 2px solid #FF444A;
+}
